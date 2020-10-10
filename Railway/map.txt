@@ -1,0 +1,28 @@
+ PPPPPP                  ........
+PPPPPPPP                 . WOOD .	     		  	    		        	
+ PPPPPP                  ........  				                       	   
+ __3____________________________2                                             1PPPPPPP
+/                                                                              \PPPPPPPP
+|                                                                               \PPPPPPP
+|                                                                                \PPPPPP
+|                                                                                / PPPP
+|                                                                               /   PP
+|                _____________________________4________________________________/    
+|               /             	 	GOLD....GOLD                               
+|              /               	 	....GOLD....                               
+|             /                	        GOLD....GOLD                               
+|            |                                                                     
+|            |                                                                      
+|            |                                                                      
+|            |                                                                      
+|            |                                                                                  7                       0  DD
+|            |                                                                                  \                       | DDDDD
+|            |                                                                                   \                      |DDDDDDD
+|            |                                                                                   |                      |DDDDDDD
+|           / \                                                                                  |                      |DDDDDDD
+ \         /   \                                                                    ____________/ \_____________________/ DDDDDDD
+  \_______/     \___6___________________________________________________5__________/			                 DDDDD 
+		 PPPPPPP                                          IIIIIIIIIIIII                                           DD
+		PPPPPPPPP       				 IIIIIIIIIIIIIII
+		PPPPPPPPP                                        IIIIIIIIIIIIIII
+		 PPPPPPP                                          IIIIIIIIIIIII 

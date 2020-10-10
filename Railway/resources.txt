@@ -1,0 +1,6 @@
+4
+Coal 4
+Wood 3
+Iron 2
+Gold 1
+
